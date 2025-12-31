@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <Authors>Your Name</Authors>
+    <Company>Your Company</Company>
+    <Copyright>Copyright © 2025</Copyright>
+    <PackageProjectUrl>https://github.com/yourorg/amos-document-validator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/yourorg/amos-document-validator</RepositoryUrl>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+  </PropertyGroup>
+</Project>
